@@ -34,7 +34,7 @@ header{
     }
 }
 .img-fluid{
-    height: 500px;
+    height: 450px;
     margin: 0;
     overflow: hidden;
 }
@@ -42,6 +42,7 @@ header{
     position: relative;
     height: 500px;
     margin-top: 20px;
+    overflow: hidden;
     box-shadow: 2px 4px 9px 1px #000;
 }
 
